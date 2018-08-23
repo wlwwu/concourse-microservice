@@ -1,10 +1,10 @@
-# BICS DASHBOARD SERVICES INSTRUCTIONS #
+#  INSTRUCTIONS #
 
 ## HOW TO BUILD ##
 **./gradlew clean build**
 
 ## BUILD location ##
-**~/bics-dashboard-services/build/libs#**
+**~/build/libs#**
 
 ## Test ##
 **./gradlew test**
@@ -15,4 +15,4 @@ we use reports provided by jacoco tool to check testing coverage
 **./gradlew  test jacocoTestCoverageVerification**
 **./gradlew  test jacocoTestReport**
 
-We can find code coverage reports from **~/bics-dashboard-services/build/jacocoHtml#**
+We can find code coverage reports from **~/build/jacocoHtml#**
